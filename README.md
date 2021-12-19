@@ -3,7 +3,9 @@
 
 **steelfreak** is feeling ✨ _glad_ ✨ Seeing you visit.
 
-https://github.com/steelfreak/steelfreak/blob/main/samson.png
+
+<img src= "https://github.com/steelfreak/steelfreak/blob/main/samson.png" />
+
 
 Here are some ideas to get started with:
 
