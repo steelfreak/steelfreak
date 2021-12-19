@@ -3,7 +3,7 @@
 
 **steelfreak** is feeling ✨ _glad_ ✨ Seeing you visit.
 
-https://www.facebook.com/photo/?fbid=3021369681428010&set=a.1379251008973227
+https://github.com/steelfreak/steelfreak/blob/main/samson.png
 
 Here are some ideas to get started with:
 
