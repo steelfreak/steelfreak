@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 
-**steelfreak/steelfreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**steelfreak** is feeling ✨ _glad_ ✨ Seeing you visit.
 
-Here are some ideas to get you started:
+Here are some ideas to get started with:
 
 - 🔭 I’m currently working on Carrots
 - 🌱 I’m currently learning Ins and Outs of Data Structures
