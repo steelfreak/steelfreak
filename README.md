@@ -11,6 +11,6 @@ Here are some ideas to get started with:
 
 - 🔭 I’m currently working on Carrots
 - 🌱 I’m currently learning Ins and Outs of Data Structures
-- 👯 I’m looking to collaborate on a number of projects in 2022
+- 👯 I’m looking to collaborate on a number of projects in 2024
 
 
