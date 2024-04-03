@@ -8,6 +8,7 @@
 
 
 Here are some ideas to get started with:
+https://steelfreak.github.io/My-Food-Discount/
 
 - 🔭 I’m currently working on Carrots
 - 🌱 I’m currently learning Ins and Outs of Data Structures
