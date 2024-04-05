@@ -12,7 +12,7 @@ Here are some ideas to get started with:
 
 
 
-- 🔭 https://steelfreak.github.io/My-Food-Discount/
+- 🔭 [Food Discount](https://steelfreak.github.io/My-Food-Discount/)
 - 🌱 [RSVP](https://steelfreak.github.io/RSVP/)
 - 👯 I’m looking to collaborate on a number of projects in 2024
 
