@@ -16,6 +16,9 @@ Here are some ideas to get started with:
 - 🌱 [RSVP](https://steelfreak.github.io/RSVP/)
 - 🌱 [Login Page](https://steelfreak.github.io/login-one/)
 - 🌱 [Login Forgot Password Interfaceses](https://steelfreak.github.io/login-forgot-pass/)
+- 🌱 [One-more-Shuffle](https://steelfreak.github.io/One-more-Shuffle/)
+- 🌱 [Another-shuffle ](https://steelfreak.github.io/Another-shuffle/)
+- 🌱 [Shuffle](https://steelfreak.github.io/Shuffle/) 
 - 👯 I’m looking to collaborate on a number of projects in 2024
 
 
