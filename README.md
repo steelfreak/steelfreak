@@ -20,9 +20,9 @@ Here are some ideas to get started with:
 - 🌱 [Another-shuffle ](https://steelfreak.github.io/Another-shuffle/)
 - 🌱 [Shuffle](https://steelfreak.github.io/Shuffle/)
 - 🌱 [Garbage Management App](https://steelfreak.github.io/Garbage-Management/)
-- 
+- 🌱 [Register/ Login](https://steelfreak.github.io/Register-login/)
 
-- 
+  
 - 👯 I’m looking to collaborate on a number of projects in 2024
 
 
