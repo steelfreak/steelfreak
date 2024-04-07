@@ -18,7 +18,11 @@ Here are some ideas to get started with:
 - 🌱 [Login Forgot Password Interfaceses](https://steelfreak.github.io/login-forgot-pass/)
 - 🌱 [One-more-Shuffle](https://steelfreak.github.io/One-more-Shuffle/)
 - 🌱 [Another-shuffle ](https://steelfreak.github.io/Another-shuffle/)
-- 🌱 [Shuffle](https://steelfreak.github.io/Shuffle/) 
+- 🌱 [Shuffle](https://steelfreak.github.io/Shuffle/)
+- 🌱 [Garbage Management App](https://steelfreak.github.io/Garbage-Management/)
+- 
+
+- 
 - 👯 I’m looking to collaborate on a number of projects in 2024
 
 
