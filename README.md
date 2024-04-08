@@ -21,6 +21,7 @@ Here are some ideas to get started with:
 - 🌱 [Shuffle](https://steelfreak.github.io/Shuffle/)
 - 🌱 [Garbage Management App](https://steelfreak.github.io/Garbage-Management/)
 - 🌱 [Register/ Login](https://steelfreak.github.io/Register-login/)
+- 🌱 [Carousel App](https://steelfreak.github.io/Carousel-Project/)
 
   
 - 👯 I’m looking to collaborate on a number of projects in 2024
