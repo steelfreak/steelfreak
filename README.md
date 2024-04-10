@@ -23,7 +23,7 @@ Here are some ideas to get started with:
 - 🌱 [Register/ Login](https://steelfreak.github.io/Register-login/)
 - 🌱 [Carousel App](https://steelfreak.github.io/Carousel-Project/)
 - 🌱 [About Me](https://steelfreak.github.io/About-Me/)
-
+- 🌱 [Blogify](https://steelfreak.github.io/Blogify/)
 
   
 - 👯 I’m looking to collaborate on a number of projects in 2024
