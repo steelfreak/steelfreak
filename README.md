@@ -24,6 +24,7 @@ Here are some ideas to get started with:
 - 🌱 [Carousel App](https://steelfreak.github.io/Carousel-Project/)
 - 🌱 [About Me](https://steelfreak.github.io/About-Me/)
 - 🌱 [Blogify](https://steelfreak.github.io/Blogify/)
+- 🌱[Split Timer](https://steelfreak.github.io/Split-Timer/)
 
   
 - 👯 I’m looking to collaborate on a number of projects in 2024
