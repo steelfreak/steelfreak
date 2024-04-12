@@ -25,6 +25,7 @@ Here are some ideas to get started with:
 - 🌱 [About Me](https://steelfreak.github.io/About-Me/)
 - 🌱 [Blogify](https://steelfreak.github.io/Blogify/)
 - 🌱[Split Timer](https://steelfreak.github.io/Split-Timer/)
+- 🌱[Web Theme Toggle](https://steelfreak.github.io/Web-Themes/)
 
   
 - 👯 I’m looking to collaborate on a number of projects in 2024
