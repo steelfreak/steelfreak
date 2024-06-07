@@ -49,4 +49,5 @@ Here are some ideas to get started with:
 ### Made with 💜 by [@anmol](https://twitter.com/Anmol_Codes)
 
 ### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+For more information meet me @ [Kinen Key Samson](https://github.com/steelfreak) if you have any feedback or suggestions
 
