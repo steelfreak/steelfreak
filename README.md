@@ -13,6 +13,37 @@
 
 <img src= "https://github.com/steelfreak/steelfreak/blob/main/samson.png" />
 
+<!-- ###### END OF Currently Learning ##### -->
+
+
+
+
+
+ <!-- ###### Some of my projects ##### -->
+
+<details> 
+ <summary> 🔰 Some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+
+  <p align="left">
+  <a href="https://github.com/The-Young-Programmer/Math-Quize">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
+  <a href="https://github.com/The-Young-Programmer/QBasic">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
+  
+  </p>
+
+ <p align="left">
+  <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+</details>
+
+<!-- ###### END OF Some of my projects  ##### -->
+
 
 Here are some ideas to get started with:
 
