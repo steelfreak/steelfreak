@@ -28,8 +28,8 @@ Here are some ideas to get started with:
   <p align="left">
    <a href="https://steelfreak.github.io/My-Food-Discount">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=My-Food-Discount&theme=react&bg_color=0D1117" alt="My-Food-Discount"></a>
-    <a href="https://steelfreak.github.io/My-Food-Discount">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=My-Food-Discount&theme=react&bg_color=0D1117" alt="My-Food-Discount"></a>
+    <a href="https://steelfreak.github.io/RSVP">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=RSVP&theme=react&bg_color=0D1117" alt="RSVP"></a>
   <a href="https://github.com/The-Young-Programmer/Hangman-Game">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
   <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
@@ -48,12 +48,6 @@ Here are some ideas to get started with:
 
 
 
-
-
-
-
-
-- 🌱 [RSVP](https://steelfreak.github.io/RSVP/)
 - 🌱 [Login Page](https://steelfreak.github.io/login-one/)
 - 🌱 [Login Forgot Password Interfaceses](https://steelfreak.github.io/login-forgot-pass/)
 - 🌱 [One-more-Shuffle](https://steelfreak.github.io/One-more-Shuffle/)
