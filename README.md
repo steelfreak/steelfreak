@@ -58,7 +58,7 @@ Here are some ideas to get started with:
   </p>
 
  <p align="left">
-  <a href="https://github.com/steelfreak/steelfreak?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/steelfreak?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </details>
 
