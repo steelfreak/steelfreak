@@ -52,6 +52,12 @@ Here are some ideas to get started with:
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Blogify&theme=react&bg_color=0D1117" alt="Blogify"></a>
     <a href="https://steelfreak.github.io/Split-Timer">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Split-Timer&theme=react&bg_color=0D1117" alt="Split-Timer"></a>
+    <a href="https://steelfreak.github.io/Web-Themes">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Web-Themes&theme=react&bg_color=0D1117" alt="Web-Themes"></a>
+    <a href="https://steelfreak.github.io/To-Do">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=To-Do&theme=react&bg_color=0D1117" alt="To-Do"></a>
+    <a href="https://steelfreak.github.io/Split-Timer">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Split-Timer&theme=react&bg_color=0D1117" alt="Split-Timer"></a>
 
    
 
@@ -64,12 +70,6 @@ Here are some ideas to get started with:
 
 <!-- ###### END OF Some of my projects  ##### -->
 
-
-
-
-- 🌱[Split Timer](https://steelfreak.github.io/Split-Timer/)
-- 🌱[Web Theme Toggle](https://steelfreak.github.io/Web-Themes/)
-- 🌱[To-Do App](https://steelfreak.github.io/To-Do/)
 - [🌱Lens Effect](https://steelfreak.github.io/lens-effect/)
 
 
