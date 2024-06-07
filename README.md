@@ -30,6 +30,18 @@ Here are some ideas to get started with:
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=My-Food-Discount&theme=react&bg_color=0D1117" alt="My-Food-Discount"></a>
     <a href="https://steelfreak.github.io/RSVP">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=RSVP&theme=react&bg_color=0D1117" alt="RSVP"></a>
+    <a href="https://steelfreak.github.io/login-one">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=login-one&theme=react&bg_color=0D1117" alt="login-one"></a>
+    <a href="https://steelfreak.github.io/login-forgot-pass">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=login-forgot-pass&theme=react&bg_color=0D1117" alt="login-forgot-pass"></a>
+    <a href="https://steelfreak.github.io/One-more-Shuffle">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=One-more-Shuffle&theme=react&bg_color=0D1117" alt="One-more-Shuffle"></a>
+    <a href="https://steelfreak.github.io/Another-shuffle">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Another-shuffle&theme=react&bg_color=0D1117" alt="Another-shuffle"></a>
+    <a href="https://steelfreak.github.io/Shuffle">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Shuffle&theme=react&bg_color=0D1117" alt="Shuffle"></a>
+
+   
   <a href="https://github.com/The-Young-Programmer/Hangman-Game">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
   <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
@@ -48,11 +60,6 @@ Here are some ideas to get started with:
 
 
 
-- 🌱 [Login Page](https://steelfreak.github.io/login-one/)
-- 🌱 [Login Forgot Password Interfaceses](https://steelfreak.github.io/login-forgot-pass/)
-- 🌱 [One-more-Shuffle](https://steelfreak.github.io/One-more-Shuffle/)
-- 🌱 [Another-shuffle ](https://steelfreak.github.io/Another-shuffle/)
-- 🌱 [Shuffle](https://steelfreak.github.io/Shuffle/)
 - 🌱 [Garbage Management App](https://steelfreak.github.io/Garbage-Management/)
 - 🌱 [Register/ Login](https://steelfreak.github.io/Register-login/)
 - 🌱 [Carousel App](https://steelfreak.github.io/Carousel-Project/)
