@@ -22,7 +22,7 @@
  <!-- ###### Some of my projects ##### -->
 Here are some ideas to get started with:
 <details> 
- <summary> 🔰 ##Click Here to see some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+ ##<summary> 🔰 Click Here to see some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 
   <p align="left">
