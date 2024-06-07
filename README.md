@@ -26,8 +26,8 @@
   <br/>
 
   <p align="left">
-  <a href="https://github.com/The-Young-Programmer/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+   <a href="https://steelfreak.github.io/My-Food-Discount">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=My-Food-Discount&theme=react&bg_color=0D1117" alt="My-Food-Discount"></a>
   <a href="https://github.com/The-Young-Programmer/Hangman-Game">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
   <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
