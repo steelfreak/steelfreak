@@ -20,13 +20,15 @@
 
 
  <!-- ###### Some of my projects ##### -->
-
+Here are some ideas to get started with:
 <details> 
  <summary> 🔰 Some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 
   <p align="left">
    <a href="https://steelfreak.github.io/My-Food-Discount">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=My-Food-Discount&theme=react&bg_color=0D1117" alt="My-Food-Discount"></a>
+    <a href="https://steelfreak.github.io/My-Food-Discount">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=My-Food-Discount&theme=react&bg_color=0D1117" alt="My-Food-Discount"></a>
   <a href="https://github.com/The-Young-Programmer/Hangman-Game">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
@@ -45,12 +47,12 @@
 <!-- ###### END OF Some of my projects  ##### -->
 
 
-Here are some ideas to get started with:
 
 
 
 
-- 🔭 [Food Discount](https://steelfreak.github.io/My-Food-Discount/)
+
+
 - 🌱 [RSVP](https://steelfreak.github.io/RSVP/)
 - 🌱 [Login Page](https://steelfreak.github.io/login-one/)
 - 🌱 [Login Forgot Password Interfaceses](https://steelfreak.github.io/login-forgot-pass/)
