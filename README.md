@@ -22,7 +22,7 @@
  <!-- ###### Some of my projects ##### -->
 Here are some ideas to get started with:
 <details> 
- <summary> 🔰 Some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+ <summary> 🔰 Click Here to see some of my projects <br><br><br><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 
   <p align="left">
@@ -40,19 +40,25 @@ Here are some ideas to get started with:
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Another-shuffle&theme=react&bg_color=0D1117" alt="Another-shuffle"></a>
     <a href="https://steelfreak.github.io/Shuffle">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Shuffle&theme=react&bg_color=0D1117" alt="Shuffle"></a>
+    <a href="https://steelfreak.github.io/Garbage-Management">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Garbage-Management&theme=react&bg_color=0D1117" alt="Garbage-Management"></a>
+    <a href="https://steelfreak.github.io/Register-login">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Register-login&theme=react&bg_color=0D1117" alt="Register-login"></a>
+    <a href="https://steelfreak.github.io/Carousel-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Carousel-Project&theme=react&bg_color=0D1117" alt="Carousel-Project"></a>
+    <a href="https://steelfreak.github.io/About-Me">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=About-Me&theme=react&bg_color=0D1117" alt="About-Me"></a>
+    <a href="https://steelfreak.github.io/Blogify">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Blogify&theme=react&bg_color=0D1117" alt="Blogify"></a>
+    <a href="https://steelfreak.github.io/Split-Timer">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Split-Timer&theme=react&bg_color=0D1117" alt="Split-Timer"></a>
 
    
-  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  <a href="https://github.com/The-Young-Programmer/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
-  
+
   </p>
 
  <p align="left">
-  <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/steelfreak/steelfreak?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </details>
 
@@ -60,11 +66,7 @@ Here are some ideas to get started with:
 
 
 
-- 🌱 [Garbage Management App](https://steelfreak.github.io/Garbage-Management/)
-- 🌱 [Register/ Login](https://steelfreak.github.io/Register-login/)
-- 🌱 [Carousel App](https://steelfreak.github.io/Carousel-Project/)
-- 🌱 [About Me](https://steelfreak.github.io/About-Me/)
-- 🌱 [Blogify](https://steelfreak.github.io/Blogify/)
+
 - 🌱[Split Timer](https://steelfreak.github.io/Split-Timer/)
 - 🌱[Web Theme Toggle](https://steelfreak.github.io/Web-Themes/)
 - 🌱[To-Do App](https://steelfreak.github.io/To-Do/)
