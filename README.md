@@ -59,6 +59,8 @@ Here are some ideas to get started with:
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=To-Do&theme=react&bg_color=0D1117" alt="To-Do"></a>
     <a href="https://steelfreak.github.io/Split-Timer">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=Split-Timer&theme=react&bg_color=0D1117" alt="Split-Timer"></a>
+    <a href="https://steelfreak.github.io/a-simple-web-app/">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=steelfreak&repo=a-simple-web-app/&theme=react&bg_color=0D1117" alt="a-simple-web-app/"></a>
 
    
 
